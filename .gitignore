@@ -1,6 +1,12 @@
 *.class
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+>>>>>>> 58be0810e157e966a28ad35ecb4cad0e951c31d0
 =======
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -14,6 +20,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # eclipse settings files
 .project
@@ -21,5 +28,7 @@ hs_err_pid*
 .settings
 target
 .iml
+=======
+>>>>>>> 58be0810e157e966a28ad35ecb4cad0e951c31d0
 =======
 >>>>>>> 58be0810e157e966a28ad35ecb4cad0e951c31d0
